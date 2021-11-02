@@ -1,0 +1,96 @@
+2021-01-12 13:00:00|perf: optimize
+2021-02-19 13:00:00|style: formatting
+2021-03-01 08:00:00|chore: maintenance
+2021-03-03 10:00:00|perf: optimize
+2021-03-06 12:00:00|refactor: cleanup
+2021-03-15 14:00:00|style: formatting
+2021-03-19 09:00:00|refactor: cleanup
+2021-03-20 09:00:00|style: formatting
+2021-03-26 08:00:00|fix: minor adjustment
+2021-03-29 08:00:00|chore: update activity
+2021-04-11 12:00:00|chore: maintenance
+2021-04-22 09:00:00|style: formatting
+2021-04-26 15:00:00|style: formatting
+2021-05-16 15:00:00|style: formatting
+2021-05-23 08:00:00|test: add test
+2021-05-25 11:00:00|chore: update activity
+2021-05-30 12:00:00|refactor: cleanup
+2021-05-31 14:00:00|perf: optimize
+2021-07-02 14:00:00|perf: optimize
+2021-07-12 13:00:00|chore: maintenance
+2021-07-16 08:00:00|chore: update activity
+2021-07-22 11:00:00|chore: update activity
+2021-08-02 13:00:00|docs: update readme
+2021-08-20 11:00:00|chore: update activity
+2021-09-01 11:00:00|perf: optimize
+2021-09-07 11:00:00|test: add test
+2021-09-11 10:00:00|chore: update activity
+2021-09-17 09:00:00|test: add test
+2021-09-26 15:00:00|test: add test
+2021-10-01 14:00:00|docs: update readme
+2021-10-15 12:00:00|refactor: cleanup
+2021-12-09 13:00:00|docs: update readme
+2021-12-11 15:00:00|perf: optimize
+2021-11-01 15:16|Atualiza documentação de instalação
+2021-11-01 10:18|Initial commit
+2021-11-01 16:13|Documenta funções principais
+2021-11-01 16:32|Corrige redirecionamento após login
+2021-11-01 09:05|Extrai funções reutilizáveis
+2021-11-01 16:02|Adiciona CSS responsivo
+2021-11-09 09:40|Estrutura inicial do mini mvc
+2021-11-09 15:47|Corrige cálculo de totais
+2021-11-02 10:16|Corrige bug na exibição de dados
+2021-11-02 14:22|Ajusta estilos dos formulários
+2021-11-02 17:01|Organiza estrutura de diretórios
+2021-11-04 09:12|Separa lógica em classes
+2021-11-04 14:48|Primeira versão do projeto
+2021-11-04 15:15|Ajusta query SQL com parâmetros preparados
+2021-11-08 11:07|Adiciona relatório de middleware
+2021-12-07 16:06|Extrai funções reutilizáveis
+2021-12-07 17:25|Simplifica lógica de controle
+2021-11-02 10:16|Corrige bug na exibição de dados
+2021-11-02 14:22|Ajusta estilos dos formulários
+2021-11-02 17:01|Organiza estrutura de diretórios
+2021-11-04 09:12|Separa lógica em classes
+2021-11-04 14:48|Primeira versão do projeto
+2021-11-04 15:15|Ajusta query SQL com parâmetros preparados
+2021-11-08 11:07|Adiciona relatório de middleware
+2021-12-07 16:06|Extrai funções reutilizáveis
+2021-12-07 17:25|Simplifica lógica de controle
+2021-11-01 10:36|Organiza estrutura de diretórios
+2021-11-01 14:49|Padroniza nomenclatura do código
+2021-11-01 16:06|Implementa CRUD de rotas
+2021-11-01 16:10|Adiciona suporte a controllers
+2021-11-02 11:15|Adiciona tema escuro
+2021-11-02 15:04|Ajusta validação de campos obrigatórios
+2021-11-02 17:25|Adiciona README com instruções de setup
+2021-12-06 16:34|Setup inicial com funcionalidades básicas
+2021-12-06 17:06|Ajusta query SQL com parâmetros preparados
+2021-11-05 11:23|Melhora layout da página inicial
+2021-11-05 14:22|Adiciona CSS responsivo
+2021-11-05 14:50|Organiza estrutura de diretórios
+2021-11-08 09:46|Implementa autenticação básica
+2021-11-08 10:23|Implementa middleware
+2021-11-08 10:52|Melhora apresentação dos dados em tabela
+2021-11-08 17:45|Setup inicial com funcionalidades básicas
+2021-12-21 11:37|Adiciona exemplos de uso
+2021-12-21 16:56|Adiciona comentários explicativos no código
+2021-12-24 10:36|Adiciona paginação nos resultados
+2021-11-02 17:16|Primeira versão do projeto
+2021-11-12 14:22|Ajusta estilos dos formulários
+2021-11-12 17:01|Corrige bug na exibição de dados
+2021-11-16 09:49|Adiciona tema escuro
+2021-11-16 14:48|Adiciona ícones e feedback visual
+2021-11-17 09:12|Documenta funções principais
+2021-12-06 14:49|Extrai funções reutilizáveis
+2021-12-06 16:10|Ajusta espaçamento e tipografia
+2021-12-08 10:36|Implementa autenticação básica
+2021-11-02 17:16|Primeira versão do projeto
+2021-11-12 14:22|Ajusta estilos dos formulários
+2021-11-12 17:01|Corrige bug na exibição de dados
+2021-11-16 09:49|Adiciona tema escuro
+2021-11-16 14:48|Adiciona ícones e feedback visual
+2021-11-17 09:12|Documenta funções principais
+2021-12-06 14:49|Extrai funções reutilizáveis
+2021-12-06 16:10|Ajusta espaçamento e tipografia
+2021-12-08 10:36|Implementa autenticação básica
